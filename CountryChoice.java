@@ -25,4 +25,4 @@ public class CountryChoice {
     public int getImage(){
         return image;
     }
-}
+} 
